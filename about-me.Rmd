@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-author: "Insert Name Here"
+author: "cassie"
 output:
   html_document:
     toc: yes
